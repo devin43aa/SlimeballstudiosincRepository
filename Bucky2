@@ -1,0 +1,33 @@
+package Eclipse.SlimeballOcean.common;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = "Slimeball Ocean", name = "Slimeball Ocean", version = ".01 Alpha")
+public class SlimeballOcean {
+
+	
+	
+	
+public SlimeballOcean() {   	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+}}	
+	
+	
+	
+	
+	
+
